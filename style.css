@@ -1,0 +1,22 @@
+*{
+    background-color: azure;
+    margin: 0rem
+
+}
+.card-header {
+    background-color: #b3ff66;
+    text-align: center;
+    color: white;
+    
+}
+
+.card-header:first-child{
+    border-radius: .5rem;
+}
+
+.textfild {
+    /* background-color:#ccff99; */
+    padding: 50px;
+    border-radius: .5rem;
+}
+
