@@ -20,6 +20,7 @@ const getValueInput = () =>{
     //     console.log("true");
     // }
 
+    //just for test
     if(firstName == "" || middleName == "" || months == "")
     {
         alert("Cannot keep mandatory field's empty");
