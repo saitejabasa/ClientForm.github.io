@@ -20,6 +20,7 @@ const getValueInput = () =>{
     //     console.log("true");
     // }
 
+    //just for test
     if(firstName == "" || middleName == "" || months == "")
     {
         alert("Cannot keep mandatory field's empty");
@@ -27,6 +28,7 @@ const getValueInput = () =>{
     }
 
     let fileTitle = firstName;
+    console.log(fileTitle);
 
     obj['First Name'] = firstName;
     obj['Middle Name'] = middleName;
