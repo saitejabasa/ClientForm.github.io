@@ -28,6 +28,7 @@ const getValueInput = () =>{
     }
 
     let fileTitle = firstName;
+    console.log(fileTitle);
 
     obj['First Name'] = firstName;
     obj['Middle Name'] = middleName;
